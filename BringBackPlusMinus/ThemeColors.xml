@@ -1,0 +1,10 @@
+﻿<Themes>
+	<Theme Name="Dark" GUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+		<Category Name="BringBackPlusMinus" GUID="{063E9575-C1A8-4729-BB15-AAA2EFB44FC0}">
+			<Color Name="outlining.plusminus">
+				<Background Type="CT_RAW" Source="FF000000" />
+				<Foreground Type="CT_RAW" Source="FFE2E2E2" />
+			</Color>
+		</Category>
+	</Theme>
+</Themes>

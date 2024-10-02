@@ -12,11 +12,11 @@
                                 Background="{DynamicResource ViewBackgroundBrush}"
                                 BorderThickness="0,1,0,1" Name="WhitePadding"
                                 VerticalAlignment="Center">
-                            <Border Height="9" Width="9" BorderBrush="{DynamicResource outlining.chevron.foreground}" Background="{DynamicResource outlining.collapsehintadornment.background}" BorderThickness="1" Name="TheSquare" >
+                            <Border Height="9" Width="9" BorderBrush="{DynamicResource outlining.plusminus.foreground}" Background="{DynamicResource outlining.plusminus.background}" BorderThickness="1" Name="TheSquare" >
                                 <Canvas>
                                     <!-- The plus/minus in the square -->
-                                    <Line X1="1" Y1="3.5" X2="6" Y2="3.5" Stroke="{DynamicResource outlining.chevron.foreground}" />
-                                    <Line X1="3.5" Y1="1" X2="3.5" Y2="6" Name="Vertical" Stroke="{DynamicResource outlining.chevron.foreground}" />
+                                    <Line X1="1" Y1="3.5" X2="6" Y2="3.5" Stroke="{DynamicResource outlining.plusminus.foreground}" />
+                                    <Line X1="3.5" Y1="1" X2="3.5" Y2="6" Name="Vertical" Stroke="{DynamicResource outlining.plusminus.foreground}" />
                                 </Canvas>
                             </Border>
                         </Border>
